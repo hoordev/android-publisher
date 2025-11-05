@@ -1,0 +1,10 @@
+*.jks
+*.keystore
+*.pem
+*.p12
+*.key
+*.cert
+
+*.json
+
+!.gitkeep
